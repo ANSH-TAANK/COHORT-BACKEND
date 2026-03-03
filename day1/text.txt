@@ -1,0 +1,10 @@
+browser ke bahar js file ko run karne ke liya likho
+node filename
+example node index.js
+
+require kara package and variable me save kiya ;
+and us package ko call kiya and us file ko node filename.js ko run kariya
+
+
+
+ 
